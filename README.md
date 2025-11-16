@@ -44,7 +44,7 @@ Constraints and choices required by the brief:
 
 ## Setup
 
-Below are Windows-focused steps (PowerShell). macOS/Linux equivalents are shown afterward.
+Below are Windows-focused steps (PowerShell).
 
 ### 1) Install Ollama and pull the model
 
@@ -132,4 +132,5 @@ python -m pip install langchain langchain-community langchain-text-splitters chr
 
 
 For hiring evaluation purposes only.
+
 
