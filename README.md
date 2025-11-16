@@ -68,7 +68,7 @@ Use the bundled virtual environment (`gptintern`) or create your own.
 - Activate the existing venv:
 
 ```powershell
-& "D:/COEP TECH/COURSE WORK/Programming/Ambedkar_GPT Intern Task/gptintern/Scripts/Activate.ps1"
+& "D:Path/Ambedkar_GPT Intern Task/gptintern/Scripts/Activate.ps1"
 ```
 
 - Or create a fresh one:
@@ -137,5 +137,6 @@ python -m pip install langchain langchain-community langchain-text-splitters chr
     - `speech.txt`
 
 ## License
+
 
 For hiring evaluation purposes only.
