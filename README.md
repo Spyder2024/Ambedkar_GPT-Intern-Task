@@ -84,14 +84,6 @@ python -m venv .venv
 python -m pip install -r requirements.txt
 ```
 
-### macOS/Linux (bash/zsh)
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-ollama pull mistral
-```
 
 ## Run
 
@@ -140,3 +132,4 @@ python -m pip install langchain langchain-community langchain-text-splitters chr
 
 
 For hiring evaluation purposes only.
+
